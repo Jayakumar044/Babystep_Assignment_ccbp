@@ -119,7 +119,10 @@ The frontend will run on http://localhost:3000.
 
 ## Output Screenshots
 
-![Home page](public/image.png)
-![Add Doctor page](public/image-1.png)
-![Book Appointment page](public/image-2.png)
-![Another page](public/image-3.png)
+![Home page](https://raw.githubusercontent.com/Jayakumar044/Babystep_Assignment_ccbp/master/frontend/public/image.png)
+
+![Add Doctor page](https://raw.githubusercontent.com/Jayakumar044/Babystep_Assignment_ccbp/master/frontend/public/image-1.png)
+
+![Book Appointment page](https://raw.githubusercontent.com/Jayakumar044/Babystep_Assignment_ccbp/master/frontend/public/image-2.png)
+
+![Another page](https://raw.githubusercontent.com/Jayakumar044/Babystep_Assignment_ccbp/master/frontend/public/image-3.png)
