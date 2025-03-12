@@ -119,9 +119,7 @@ The frontend will run on http://localhost:3000.
 
 ## Output Screenshots
 
-![Home page](image.png)
-![Add Doctor page](image-1.png)
-![Book Appointment page](image-2.png)
-![Another page](image-3.png)
-
-
+![Home page](public/image.png)
+![Add Doctor page](public/image-1.png)
+![Book Appointment page](public/image-2.png)
+![Another page](public/image-3.png)
